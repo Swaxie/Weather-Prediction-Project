@@ -7,3 +7,4 @@ After cleaning, analytical data was then brought to Athena to be stored in a Lak
 displaying generated weekly temperature forecasts as well as hourly real-time data and historical data. The forecasts were generated using a Linear Regression 
 PySpark MLLib model trained on ingested historical weather data dating back to 2010.
 The Jupyter notebooks stored here have been translated for usage in Azure Databricks but can be ran in an AWS Glue environment with minimal edits. 
+---
